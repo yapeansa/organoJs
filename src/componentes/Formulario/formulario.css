@@ -6,8 +6,10 @@
     flex-wrap: wrap;
 
 }
+
 .formulario-container .formulario {
-    flex-grow: 1; /* flex: 1 */
+    flex-grow: 1;
+    /* flex: 1 */
     flex-shrink: 1;
     flex-basis: 0;
     background: #F7F7F7;
@@ -15,6 +17,7 @@
     border-radius: 20px;
     padding: 36px 64px;
 }
+
 .formulario-container .formulario h2 {
     font-weight: 400;
     font-size: 32px;

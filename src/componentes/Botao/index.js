@@ -1,7 +1,7 @@
 import React from 'react';
 import './botao.css'
 
-const Botao = ({texto}) => {
+const Botao = ({ texto }) => {
     return <button className="botao">
         {texto}
     </button>
