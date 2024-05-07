@@ -39,8 +39,6 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^5.16.0",
-    "eslint-plugin-react": "^7.34.1",
     "globals": "^15.1.0"
   }
 }
